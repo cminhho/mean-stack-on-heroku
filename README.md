@@ -1,4 +1,5 @@
 # mean-stack-on-heroku
+See demo: http://mean-stack-on-heroku.herokuapp.com/
 
 ## Setting up a free account on Heroku and MongoLab
 
